@@ -1,4 +1,6 @@
 * [OOC](/)
-* [ooc是什麽？](/ooc)
 * 世界觀
-    - [基礎世界觀](/system/basic)
+    - [宇宙初生](/system/basic)
+    - [星脈運轉](/system/stars)
+    - ["創世紀"](/system/creations)
+    - [初·元素](/system/materials_0)
